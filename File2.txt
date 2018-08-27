@@ -1,3 +1,4 @@
 This is file2
 
-combined change1 and change2 more better
+Change1--> 1 === Change -->2
+
