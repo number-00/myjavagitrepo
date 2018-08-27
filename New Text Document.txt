@@ -1,9 +1,9 @@
-class helloworld{
+class Helloworld{
 
-main(){
+	public static void main(String args[]){
 
-sysout("Hello World");
+		System.out.println("Hello World");
 
-}
+	}
 
 }
