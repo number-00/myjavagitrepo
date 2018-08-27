@@ -1,3 +1,3 @@
 This is file2
 
-Change1--->Change2
+combined change1 and change2 more better
