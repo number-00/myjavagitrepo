@@ -1,4 +1,8 @@
 class Helloworld{
+	
+	void myMethod(){
+ 	System.out.println("Mymethod");
+	}
 
 	public static void main(String args[]){
 
