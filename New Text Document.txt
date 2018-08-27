@@ -1,12 +1,14 @@
 class Helloworld{
 	
-	void myMethod(){
+	static void myMethod(){
  	System.out.println("Mymethod");
 	}
 
 	public static void main(String args[]){
 
 		System.out.println("Hello World");
+
+		myMethod();
 
 	}
 
